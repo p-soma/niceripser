@@ -5,7 +5,7 @@
     program to take a ripser output file and save the persistence in each
     dimension as a comma-delimited text file
 
-    usage: niceripser [filename] [number of dimensions]
+    usage: niceripser [filename] 
   */
 
 #include <iostream>
